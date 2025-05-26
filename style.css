@@ -106,3 +106,10 @@ body {
         form button:hover {
             background-color: #0056b3; 
         }
+      
+       footer {
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
